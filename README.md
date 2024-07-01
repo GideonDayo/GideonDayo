@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @GideonDayo
 - 👀 I’m interested in growing as a student programmer
 - 🌱 I’m currently learning Java, Python, HTML & CSS
-- 💞️ I’m looking to collaborate on my nonprofit projevt
 - 📫 How to reach me gdayo2017@gmail.com
 
 <!---
